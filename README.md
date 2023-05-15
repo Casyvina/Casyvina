@@ -60,7 +60,7 @@
 
 [![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=casyvina&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=casyvina)](https://github.com/anuraghazra/github-readme-stats)
+[![Joseph's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time)](https://github.com/anuraghazra/github-readme-stats/issues/2698)
 
 ---
 
@@ -68,12 +68,13 @@
 
 
 
-  
- 
-
 <!--
 **Casyvina/Casyvina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![creator911's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Voko)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=creator911&layout=compact&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Casyvina&layout=compact&range=last_30_days)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
