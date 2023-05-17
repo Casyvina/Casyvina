@@ -60,7 +60,7 @@
 
 [![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=casyvina&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Joseph's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time)](https://github.com/anuraghazra/github-readme-stats/issues/2698)
+[![Joseph's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Casyvina&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time)](https://github.com/anuraghazra/github-readme-stats/issues/2698)
 
 ---
 
