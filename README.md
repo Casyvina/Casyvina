@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/joseph-agwuh-287b63228/">
+  <a href="[https://www.linkedin.com/in/joseph-agwuh-287b63228/](https://www.linkedin.com/in/joseph-agwuh-3159b921a/?originalSubdomain=ng)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCVPtmVW7Y7pvUcvqb_GkAgA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/AgwuhJoseph">
+  <a href="[https://twitter.com/AgwuhJoseph](https://twitter.com/AgwuhJoseph)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
  </div>
@@ -24,9 +24,9 @@
 ---
   
  ### 👨‍💻 About Me :
- I am a Full Data Analysis <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+ I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
  - 🔭 I'm working as a Machine Learning Engineer and contributing to ...
- - 🌱 Exploring Data Science and Machine Learning Advance
+ - 🌱 Build, Train and Deploy model
  - ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
  - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-agwuh-287b63228/)
  - 💬 Ask me about 
