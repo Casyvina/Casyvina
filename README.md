@@ -24,10 +24,10 @@
 ---
   
  ### 👨‍💻 About Me :
- I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
- - 🔭 Built multiple projects for both financial and Health sectors and private sectors
+ I am a Machine Learning Engineer and Full stack web developer , website and mobile app <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+ - 🔭 Built multiple projects for both financial and Health sectors and private sectors, frontend and backend
  - 🌱 Perform Explandatory Data Analysis, Build model and Evaluate model, make predictions, deploy model.
- - ⚡ In my free time, I solve problems on kaggle competitions and read tech articles.
+ - ⚡ In my free time, I solve problems on kaggle competitions and read tech articles and documentations.
  - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-agwuh-287b63228/)
  - 💬 Ask me about 
 
