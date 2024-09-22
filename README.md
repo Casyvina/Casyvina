@@ -27,8 +27,8 @@
  Not everybody may like it but i'm a 4 years self taught developer both frontend and backend, building web applications, custom ai model, and web automation  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
  - 🔭 My Goal is to make life much easier for individuals and companies alike with the aid of new technologies.
  - 🌱 I enjoy building bots api or artificial intelligence or platform to solve various types of problem.
- - ⚡ My spark is challenges, as a nigerian who lives with alot of them. i love to solve issues as long as it software related, reading and researching is not a problem.
- Am from the toughest country in the world Nigeria.
+ - ⚡ My spark is challenges, as a nigerian who lives with alot of them. I enjoy the act of solving issues as long as it software related, reading and researching is not a problem at all.
+ - Am from the toughest country in the world Nigeria.
  - 📫 How to reach me: ///
  - 💬 Ask me about softwares and applications am ready to assist.
 
