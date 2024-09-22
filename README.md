@@ -25,8 +25,8 @@
   
  ### 👨‍💻 About Me :
  Not everybody may like it but i'm a 4 years self taught developer both frontend and backend, building web applications, custom ai model, and web automation  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
- - 🔭 My Goal is to make life much easier for individual and companies with the aid of new technologies.
- - 🌱 I enjoy building robots or artificial intelligence or platform to solve various types of problem.
+ - 🔭 My Goal is to make life much easier for individuals and companies alike with the aid of new technologies.
+ - 🌱 I enjoy building bots api or artificial intelligence or platform to solve various types of problem.
  - ⚡ My spark is challenges, as a nigerian who lives with alot of them. i love to solve issues as long as it software related, reading and researching is not a problem.
  Am from the toughest country in the world Nigeria.
  - 📫 How to reach me: ///
@@ -66,20 +66,19 @@
 [![Joseph's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Casyvina&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time)](https://github.com/anuraghazra/github-readme-stats/issues/2698)
 
 ---
-
+<!--
 ### ✍️ Blog Post :
 
----
-<!--
+
 **Casyvina/Casyvina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![creator911's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Voko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=creator911&layout=compact&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Casyvina&layout=compact&range=last_30_days)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started: --!>
+Here are some ideas to get you started:
 
----
+
 
 - 🔭 I’m currently working on Laptop Prices prediction project
 - 🌱 I’m currently learning R programming 
@@ -89,3 +88,4 @@ Here are some ideas to get you started: --!>
 - 📫 How to reach me: +2348145470855
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--!>
